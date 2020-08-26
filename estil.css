@@ -5,8 +5,9 @@
    
 }
 body{
-    background-color: rgba(219, 111, 9, 0.164);
+    backgro-color: rgba(219, 111, 9, 0.164);
     max-width: 800px;
+    border-block: solid 3px black;
     margin: 10px;
     padding: 5px;
     font-size: 20px;
@@ -14,14 +15,15 @@ body{
     color: whitesmoke;
     background-image: url("foto.jpg");
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: left top;
     margin-right: 15px;
     background-attachment: fixed;
     
 }
 main{
+    
     color: rgba(219, 111, 9, 0.774);
-    background-color: rgba(255, 255, 255, 0.212);
+    background-color: rgba(240, 140, 225, 0.178);
     padding: 8px;
     margin-bottom: 30px;
     
