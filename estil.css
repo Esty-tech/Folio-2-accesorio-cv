@@ -1,0 +1,71 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    
+   
+}
+body{
+    background-color: rgba(219, 111, 9, 0.164);
+    max-width: 800px;
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: whitesmoke;
+    background-image: url("foto.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 15px;
+    background-attachment: fixed;
+    
+}
+main{
+    color: rgba(219, 111, 9, 0.774);
+    background-color: rgba(255, 255, 255, 0.212);
+    padding: 8px;
+    margin-bottom: 30px;
+    
+}
+main ul, li, a, i{
+    list-style: none;
+    text-align: center;
+    color: black;
+}
+p{
+    font-weight: 900;
+    color: rgba(219, 111, 9, 0.774);
+    text-align: center;
+}
+h4{
+    width: 90%;
+    color: rgba(219, 111, 9, 0.774);
+    margin-bottom: 30px;
+    
+}
+
+header{
+    background-color: rgba(219, 111, 9, 0.164);
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    border-block: solid 1px black;
+    border-radius: 20px;
+}
+h3{
+    font-size: 18px;
+}
+footer{
+    display: block;
+    border-radius: 20px;
+    color: rgba(219, 111, 9, 0.774);
+    text-align: right;
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+.sociales a i{
+    
+    color: black;
+}
+.sociales{
+    text-align: right;
+}
